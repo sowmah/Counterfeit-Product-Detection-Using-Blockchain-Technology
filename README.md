@@ -1,7 +1,7 @@
 # Fake-Product-Detection-Using-Blockchain-Technology
 Project Overview: 
 
-Counterfeit products have become a significant concern in product manufacturing industries, affecting brand reputation, customer trust, and financial performance. This project uses Blockchain technology to create a robust solution for detecting counterfeit products.By leveraging Quick Response (QR) codes and Blockchain, the system ensures product authenticity without relying on third-party verification.
+Developed a Blockchain-based System to detect and prevent counterfeit products. Product counterfeiting has become the main problem and identifying the original and fake products is very difficult. Using a QR Code we can easily find out whether the product is Authentic or not on the Block chain System using Block chain, Python, HTML, CSS, JavaScript
 
 Problem Statement:
 
