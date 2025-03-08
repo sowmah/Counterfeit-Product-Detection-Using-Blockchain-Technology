@@ -1,4 +1,4 @@
-# Fake-Product-Detection-Using-Blockchain-Technology
+# Counterfeit-Product-Detection-Using-Blockchain-Technology
 Project Overview: 
 
 Developed a Blockchain-based System to detect and prevent counterfeit products. Product counterfeiting has become the main problem and identifying the original and fake products is very difficult. Using a QR Code we can easily find out whether the product is Authentic or not on the Block chain System using Block chain, Python, HTML, CSS, JavaScript
